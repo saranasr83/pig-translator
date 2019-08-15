@@ -1,0 +1,16 @@
+
+
+.w3-animate-top {
+    -webkit-animation-duration: 3s; /* Safari 4.0 - 8.0 */
+    animation-duration: 3s;
+}
+.btn {
+    margin-left: 20px;
+    background-color: blue;
+    border: solid black;
+}
+.btn:hover {
+    transform: scale(1.1); 
+    transition: all .5s;
+    background-color: rgb(80, 180, 247);
+}
